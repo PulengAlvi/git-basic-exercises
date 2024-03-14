@@ -1,0 +1,1000 @@
+  938  java Assignment
+  939  javac Assignment.java 
+  940  java Assignment
+  941  javac Assignment.java 
+  942  java Assignment
+  943  javac Assignment.java 
+  944  javac Assignment.java
+  945  java Assignment
+  946  javac Assignment.java
+  947  java Assignment
+  948  javac Assignment.java
+  949  java Assignment
+  950  javac Assignment.java
+  951  java Assignment
+  952  javac Assignment.java
+  953  java Assignment
+  954  javac Main.java
+  955  java Main
+  956  javac Main.java
+  957  java Main
+  958  javac Main.java
+  959  java Main
+  960  javac Assignment.java
+  961  java Assignment
+  962  javac Assignment.java
+  963  java Assignment
+  964  javac Assignment.java
+  965  java Assignment
+  966  javac Assignment.java
+  967  java Assignment
+  968  javac Assignment.java
+  969  java Assignment
+  970  javac Assignment.java
+  971  java Assignment
+  972  javac Assignment.java
+  973  java Assignment
+  974  javac Assignment.java
+  975  java Assignment
+  976  javac Assignment.java
+  977  java Assignment
+  978  javac Assignment.java
+  979  java Assignment
+  980  java Assignment
+  981  javac Assignment.java
+  982  java Assignment
+  983  javac Assignment.java
+  984  java Assignment
+  985  javac Assignment.java
+  986  java Assignment
+  987  javac Assignment.java
+  988  java Assignment
+  989  javac Assignment.java
+  990  java Assignment
+  991  javac Assignment.java
+  992  java Assignment
+  993  javac Assignment.java
+  994  java Assignment
+  995  javac Assignment.java
+  996  java Assignment
+  997  javac Assignment.java
+  998  java Assignment
+  999  javac Assignment.java
+ 1000  java Assignment
+ 1001  javac Assignment.java
+ 1002  java Assignment
+ 1003  python3 AAAgraphGenerator.py 3 bestcase.csv worstcase.csv A
+ 1004  python3 AAAgraphGenerator.py 3 timeBF.csv timeImprovedBF.csv Assignment
+ 1005  python3 AAAgraphGenerator.py 3 timeBF.csv timeImprovedBF.csv timeBF.csv Assignment
+ 1006  python3 AAAgraphGenerator.py 3 timeBF.csv timeImprovedBF.csv timeImprovedBF.csv Assignment
+ 1007  python3 AAAgraphGenerator.py 3 timeImprovedBF.csv timeImprovedBF.csv timeImprovedBF.csv Assignment
+ 1008  javac Assignment.java
+ 1009  java Assignment
+ 1010  python3 AAAgraphGenerator.py 3 timeImprovedBF.csv timeImprovedBF.csv timeImprovedBF.csv Assignment
+ 1011  python3 AAAgraphGenerator.py 3 timeBF.csv timeImprovedBF.csv timeImprovedBF.csv Assignment
+ 1012  python3 AAAgraphGenerator.py 3 timeBF.csv timeBF.csv timeBF.csv Assignment
+ 1013  javac Assignment.java
+ 1014  java Assignment
+ 1015  python3 AAAgraphGenerator.py 3 timeBF.csv timeImprovedBF.csv timeImprovedBF.csv Assignment
+ 1016  javac Assignment.java
+ 1017  java Assignment
+ 1018  javac Assignment.java
+ 1019  java Assignment
+ 1020  javac Assignment.java
+ 1021  java Assignment
+ 1022  javac Assignment.java
+ 1023  java Assignment
+ 1024  javac Assignment.java
+ 1025  java Assignment
+ 1026  javac Assignment.java
+ 1027  java Assignment
+ 1028  javac Assignment.java
+ 1029  java Assignment
+ 1030  javac Assignment.java
+ 1031  java Assignment
+ 1032  javac Assignment.java
+ 1033  java Assignment
+ 1034  javac Assignment.java
+ 1035  java Assignment
+ 1036  javac Assignment.java
+ 1037  java Assignment
+ 1038  python3 AAAgraphGenerator.py 3 timeBF.csv timeImprovedBF.csv timeImprovedBF.csv Assignment
+ 1039  javac Assignment.java
+ 1040  java Assignment
+ 1041  javac Assignment.java
+ 1042  java Assignment
+ 1043  javac Assignment.java
+ 1044  java Assignment
+ 1045  javac Assignment.java
+ 1046  java Assignment
+ 1047  javac Assignment.java
+ 1048  java Assignment
+ 1049  python3 AAAgraphGenerator.py 3 timeBF.csv timeImprovedBF.csv timeImprovedBF.csv Assignment
+ 1050  javac Assignment.java
+ 1051  python3 AAAgraphGenerator.py 3 timeBF.csv timeImprovedBF.csv timeImprovedBF.csv Assignment
+ 1052  java Assignment
+ 1053  javac Assignment.java
+ 1054  java Assignment
+ 1055  javac Assignment.java
+ 1056  java Assignment
+ 1057  javac Assignment.java
+ 1058  java Assignment
+ 1059  javac Assignment.java
+ 1060  java Assignment
+ 1061  javac Assignment.java
+ 1062  java Assignment
+ 1063  javac Assignment.java
+ 1064  code .
+ 1065  npm install yarn -g
+ 1066  sudo apt update
+ 1067  sudo apt install curl
+ 1068  curl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+ 1069  echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+ 1070  sudo apt install yarn
+ 1071  yarn --version
+ 1072  sudo apt install npm
+ 1073  sudo curl --compressed -o- -L https://yarnpkg.com/install.sh | bash
+ 1074  yarn --version
+ 1075  echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+ 1076  sudo apt update
+ 1077  sudo apt -y install yarn
+ 1078  sudo apt install --no-install-recommends yarn
+ 1079  yarn --version
+ 1080  code .
+ 1081  npm install -g node modules
+ 1082  javac Assignment.java
+ 1083  java Assignment
+ 1084  javac Assignment.java
+ 1085  java Assignment
+ 1086  javac Assignment.java
+ 1087  java Assignment
+ 1088  javac Assignment.java
+ 1089  java Assignment
+ 1090  java Assignment
+ 1091  javac Assignment.java
+ 1092  java Assignment
+ 1093  javac Assignment.java
+ 1094  java Assignment
+ 1095  javac Assignment.java
+ 1096  java Assignment
+ 1097  python3 rectangledata.py 
+ 1098  python3 rectangledata.py
+ 1099  javac Assignment.java
+ 1100  java Assignment
+ 1101  python3 AAAgraphGenerator.py 3 worstcase.csv worstcase.csv worstcase.csv Worst-Case
+ 1102  javac Assignment.java
+ 1103  java Assignment
+ 1104  python3 AAAgraphGenerator.py 3 average.csv average.csv average.csv Average-Case
+ 1105  javac Assignment.java
+ 1106  java Assignment
+ 1107  python3 AAAgraphGenerator.py 3 average.csv average.csv average.csv Average-Case
+ 1108  javac Assignment.java
+ 1109  java Assignment
+ 1110  javac Assignment.java
+ 1111  java Assignment
+ 1112  python3 AAAgraphGenerator.py 3 best.csv best.csv best.csv Best-Case
+ 1113  code .
+ 1114  lsb_release -a
+ 1115  python -m notebook
+ 1116  python3 -m notebook
+ 1117  python3 -m neuralnet
+ 1118  jupyter --version
+ 1119  jupyter notebook
+ 1120  pip install notebook
+ 1121  jupyter notebook
+ 1122  pip install markupsafe==2.0.1
+ 1123  jupyter notebook
+ 1124  pip install -U markupsafe
+ 1125  jupyter notebook
+ 1126  pip install markupsafe==2.0.1
+ 1127  jupyter notebook
+ 1128  pip install seaborn
+ 1129  javac Assignment.java
+ 1130  java Assignment
+ 1131  javac Assignment.java
+ 1132  java Assignment
+ 1133  javac Assignment.java
+ 1134  java Assignment
+ 1135  javac Assignment.java
+ 1136  java Assignment
+ 1137  javac Assignment.java
+ 1138  java Assignment
+ 1139  javac Assignment.java
+ 1140  java Assignment
+ 1141  javac Assignment.java
+ 1142  java Assignment
+ 1143  javac Assignment.java
+ 1144  java Assignment
+ 1145  javac Assignment.java
+ 1146  java Assignment
+ 1147  javac Assignment.java
+ 1148  python3 lab3.py
+ 1149  python3 test.py
+ 1150  python3 parallel.py
+ 1151  g++ -o omp -fopenmp scan_omp.cpp 
+ 1152  ./omp
+ 1153  g++ scan_omp.cpp -o omp
+ 1154  ./
+ 1155  ./omp
+ 1156  g++ scan_omp.cpp -o omp
+ 1157  ./omp
+ 1158  g++ -o omp -fopenmp scan_omp.cpp 
+ 1159  ./omp
+ 1160  g++ -o omp -fopenmp scan_omp.cpp 
+ 1161  ./omp
+ 1162  g++ -o omp -fopenmp scan_omp.cpp 
+ 1163  ./omp
+ 1164  g++ scan_omp.cpp -o omp
+ 1165  ./omp
+ 1166  g++ scan_omp.cpp -o omp
+ 1167  ./omp
+ 1168  g++ scan_omp.cpp -o omp
+ 1169  ./omp
+ 1170  g++ scan_omp.cpp -o omp
+ 1171  ./omp
+ 1172  g++ scan_omp.cpp -o omp
+ 1173  ./omp
+ 1174  g++ scan_omp.cpp -o omp
+ 1175  ./omp
+ 1176  g++ scan_omp.cpp -o omp
+ 1177  ./omp
+ 1178  g++ scan_omp.cpp -o omp
+ 1179  ./omp
+ 1180  g++ scan_omp.cpp -o omp
+ 1181  ./omp
+ 1182  g++ scan_omp.cpp -o omp
+ 1183  ./omp
+ 1184  g++ scan_omp.cpp -o omp
+ 1185  ./omp
+ 1186  g++ -o omp -fopenmp scan_omp.cpp 
+ 1187  ./omp
+ 1188  g++ -o omp -fopenmp scan_omp.cpp 
+ 1189  ./omp
+ 1190  g++ -o omp -fopenmp scan_omp.cpp 
+ 1191  ./omp
+ 1192  g++ -o omp -fopenmp scan_omp.cpp 
+ 1193  ./omp
+ 1194  g++ -o omp -fopenmp scan_omp.cpp 
+ 1195  ./omp
+ 1196  g++ -o omp -fopenmp scan_omp.cpp 
+ 1197  ./omp
+ 1198  g++ scan_omp.cpp -o omp
+ 1199  ./omp
+ 1200  g++ scan_omp.cpp -o omp
+ 1201  ./omp
+ 1202  g++ scan_omp.cpp -o omp
+ 1203  ./omp
+ 1204  g++ scan_omp.cpp -o omp
+ 1205  ./omp
+ 1206  g++ scan_omp.cpp -o omp
+ 1207  ./omp
+ 1208  g++ -o omp -fopenmp scan_omp.cpp 
+ 1209  ./omp
+ 1210  g++ -o omp -fopenmp scan_omp.cpp 
+ 1211  ./omp
+ 1212  g++ -o omp -fopenmp scan_omp.cpp 
+ 1213  ./omp
+ 1214  g++ -o omp -fopenmp scan_omp.cpp 
+ 1215  ./omp
+ 1216  g++ -o omp -fopenmp scan_omp.cpp 
+ 1217  ./omp
+ 1218  g++ -o omp -fopenmp scan_omp.cpp 
+ 1219  ./omp
+ 1220  g++ -o omp -fopenmp scan_omp.cpp 
+ 1221  ./omp
+ 1222  g++ -o omp -fopenmp scan_omp.cpp 
+ 1223  ./omp
+ 1224  g++ -o omp -fopenmp scan_omp.cpp 
+ 1225  ./omp
+ 1226  g++ -o omp -fopenmp scan_omp.cpp 
+ 1227  ./omp
+ 1228  g++ -o omp -fopenmp scan_omp.cpp 
+ 1229  ./omp
+ 1230  javac Assignment.java 
+ 1231  java Assignment 
+ 1232  lscpu
+ 1233  nano ~/run.sh
+ 1234  gcc seqDijk.c -o seqDijk
+ 1235  ./seqDijk
+ 1236  gcc seqDijk.c -o seqDijk
+ 1237  ./seqDijk
+ 1238  gcc seqDijk.c -o seqDijk
+ 1239  ./seqDijk
+ 1240  gcc openMPdijk.c -fopenmp -o openMPdijk
+ 1241  ./openMPdijk
+ 1242  ./seqDijk
+ 1243  ./openMPdijk
+ 1244  gcc seqDijk.c -o seqDijk
+ 1245  ./seqDijk
+ 1246  gcc seqDijk.c -o seqDijk
+ 1247  ./seqDijk
+ 1248  gcc main.c -o main
+ 1249  ./main
+ 1250  gcc seqDijk.c -o seqDijk
+ 1251  ./seqDijk
+ 1252  gcc seqDijk.c -o seqDijk
+ 1253  ./seqDijk
+ 1254  gcc seqDijk.c -o seqDijk
+ 1255  ./seqDijk
+ 1256  bash run.sh main.c
+ 1257  nano ~/run.sh
+ 1258  mpicc MPIdijk.c -o test
+ 1259  mpiexec -n 4 ./test
+ 1260  mpiexec -n 3 ./test
+ 1261  mpiexec -n 2 ./test
+ 1262  mpiexec -n 1 ./test
+ 1263  mpiexec -n 2 ./test
+ 1264  mpiexec -n 1 ./test
+ 1265  mpicc MPIdijk.c -o test
+ 1266  mpiexec -n 1 ./test
+ 1267  mpicc MPIdijk.c -o test
+ 1268  mpiexec -n 1 ./test
+ 1269  mpicc MPIdijk.c -o test
+ 1270  mpiexec -n 1 ./test
+ 1271  mpirun -np 1 ./test
+ 1272  mpicc MPIdijk.c -o test
+ 1273  mpirun -np 1 ./test
+ 1274  mpicc MPIdijk.c -o test
+ 1275  mpirun -np 1 ./test
+ 1276  ssh ptshaba2@146.141.21.100
+ 1277  g++ Blelloch_serial.cpp -o serial
+ 1278  ./serial
+ 1279  g++ Blelloch_serial.cpp -o serial
+ 1280  ./serial
+ 1281  g++ Blelloch_serial.cpp -o serial
+ 1282  ./serial
+ 1283  g++ Blelloch_serial.cpp -o serial
+ 1284  ./serial
+ 1285  g++ Blelloch_serial.cpp -o serial
+ 1286  ./serial
+ 1287  g++ Blelloch_serial.cpp -o serial
+ 1288  ./serial
+ 1289  g++ Blelloch_serial.cpp -o serial
+ 1290  ./serial
+ 1291  g++ scan_omp.cpp -fopenmp -o omp
+ 1292  ./omp 
+ 1293  g++ scan_omp.cpp -fopenmp -o omp
+ 1294  ./omp 
+ 1295  g++ scan_omp.cpp -fopenmp -o omp
+ 1296  ./omp 
+ 1297  g++ scan_omp.cpp -fopenmp -o omp
+ 1298  ./omp 
+ 1299  g++ scan_omp.cpp -fopenmp -o omp
+ 1300  ./omp 
+ 1301  g++ scan_omp.cpp -fopenmp -o omp
+ 1302  ./omp 
+ 1303  g++ scan_omp.cpp -fopenmp -o omp
+ 1304  ./omp 
+ 1305  g++ scan_omp.cpp -fopenmp -o omp
+ 1306  ./omp 
+ 1307  g++ scan_omp.cpp -fopenmp -o omp
+ 1308  ./omp 
+ 1309  g++ scan_omp.cpp -fopenmp -o omp
+ 1310  ./omp 
+ 1311  g++ scan_omp.cpp -fopenmp -o omp
+ 1312  ./omp 
+ 1313  python3 AAAgraphGenerator.py 3 seq.csv omp.csv mpi.csv parallel_scan
+ 1314  gcc sssp.c -o sssp
+ 1315  ./sssp
+ 1316  gcc sssp.c -o sssp
+ 1317  ./sssp
+ 1318  gcc sssp.c -o sssp
+ 1319  ./sssp
+ 1320  gcc sssp.c -o sssp
+ 1321  ./sssp
+ 1322  gcc sssp.c -o sssp
+ 1323  ./sssp
+ 1324  gcc sssp.c -o sssp
+ 1325  ./sssp
+ 1326  gcc sssp.c -o sssp
+ 1327  ./sssp
+ 1328  gcc sssp_omp.c -fopenmp -o sssp_omp
+ 1329  ./sssp_omp
+ 1330  gcc sssp_omp.c -fopenmp -o sssp_omp
+ 1331  ./sssp_omp
+ 1332  gcc sssp_omp.c -fopenmp -o sssp_omp
+ 1333  ./sssp_omp
+ 1334  gcc sssp_omp.c -fopenmp -o sssp_omp
+ 1335  ./sssp_omp
+ 1336  gcc sssp_omp.c -fopenmp -o sssp_omp
+ 1337  ./sssp_omp
+ 1338  gcc sssp_omp.c -fopenmp -o sssp_omp
+ 1339  ./sssp_omp
+ 1340  gcc sssp_omp.c -fopenmp -o sssp_omp
+ 1341  ./sssp_omp
+ 1342  gcc sssp_omp.c -fopenmp -o sssp_omp
+ 1343  ./sssp_omp
+ 1344  gcc sssp_omp.c -fopenmp -o sssp_omp
+ 1345  ./sssp_omp
+ 1346  python3 AAAgraphGenerator.py 3 seq.csv omp.csv mpi.csv sssp
+ 1347  gcc sssp.c -o sssp
+ 1348  ./sssp
+ 1349  gcc sssp.c -o sssp
+ 1350  ./sssp
+ 1351  gcc sssp.c -o sssp
+ 1352  ./sssp
+ 1353  gcc sssp.c -o sssp
+ 1354  ./sssp
+ 1355  gcc sssp.c -o sssp
+ 1356  ./sssp
+ 1357  gcc sssp.c -o sssp
+ 1358  ./sssp
+ 1359  gcc sssp.c -o sssp
+ 1360  ./sssp
+ 1361  gcc sssp.c -o sssp
+ 1362  ./sssp
+ 1363  gcc sssp_omp.c -fopenmp -o sssp_omp
+ 1364  ./sssp_omp
+ 1365  gcc sssp.c -o sssp
+ 1366  ./sssp
+ 1367  gcc sssp.c -o sssp
+ 1368  gcc sssp_omp.c -fopenmp -o sssp_omp
+ 1369  ./sssp_omp
+ 1370  ./sssp
+ 1371  ./sssp_omp
+ 1372  gcc sssp_omp.c -fopenmp -o sssp_omp
+ 1373  ./sssp_omp
+ 1374  gcc sssp_omp.c -fopenmp -o sssp_omp
+ 1375  ./sssp_omp
+ 1376  gcc sssp_omp.c -fopenmp -o sssp_omp
+ 1377  ./sssp_omp
+ 1378  gcc sssp_omp.c -fopenmp -o sssp_omp
+ 1379  ./sssp_omp
+ 1380  ./sssp
+ 1381  ./sssp_omp
+ 1382  gcc sssp_omp.c -fopenmp -o sssp_omp
+ 1383  ./sssp_omp
+ 1384  gcc sssp.c -o sssp
+ 1385  ./sssp
+ 1386  mpicc sssp_mpi.c -o sssp_mpi
+ 1387  mpiexec -n 1 ./test
+ 1388  mpiexec -n 1 ./sssp_mpi
+ 1389  mpicc sssp_mpi.c -o sssp_mpi
+ 1390  mpiexec -n 1 ./sssp_mpi
+ 1391  nano myjobscript.sh
+ 1392  vi myjobscript.sh
+ 1393  sbatch myjobscript
+ 1394  sbatch myjobscript.sh
+ 1395  sudo apt install slurm-client
+ 1396  sbatch myjobscript.sh
+ 1397  vi myjobscript.sh
+ 1398  nano myjobscript.sh
+ 1399  mpicc sssp_mpi.c -o sssp_mpi
+ 1400  scp ./myjobscript.sh ptshaba2@146.141.21.100:~/SSSP/
+ 1401  scp ./sssp_mpi ptshaba2@146.141.21.100:~/SSSP/
+ 1402  nano myjobscript.sh
+ 1403  scp ./myjobscripts.slurm ptshaba2@146.141.21.100:~/SSSP/
+ 1404  nano myjobscripts.slurm
+ 1405  scp ptshaba2@146.141.21.100
+ 1406  ssh ptshaba2@146.141.21.100
+ 1407  nano run.sh
+ 1408  chmod u+x run.sh
+ 1409  ./run.sh
+ 1410  chmod u+x run.sh
+ 1411  nano run.sh
+ 1412  chmod u+x run.sh
+ 1413  ./run.sh
+ 1414  nano run_sssp.sh
+ 1415  chmod u+x run.sh
+ 1416  chmod u+x run_sssp.sh 
+ 1417  ./run_sssp.sh
+ 1418  nano run_omp.sh
+ 1419  chmod u+x run_sssp.sh 
+ 1420  chmod u+x run_omp.sh 
+ 1421  ./run_omp.sh 
+ 1422  nano run_omp.sh
+ 1423  chmod u+x run_omp.sh 
+ 1424  ./run_omp.sh
+ 1425  nano run_omp.sh
+ 1426  chmod u+x run_omp.sh 
+ 1427  ./run_omp.sh
+ 1428  nano sssp_job.sbatch
+ 1429  scp ./sssp_job.sbatch ptshaba2@146.141.21.100:~/SSSP/
+ 1430  ssh ptshaba2@146.141.21.100
+ 1431  echo #SHELL
+ 1432  echo $SHELL
+ 1433  ssh ptshaba2@146.141.21.100
+ 1434  mpicc test.c -o test
+ 1435  mpiexec -n 4 ./test
+ 1436  mpiexec -n 1 ./test
+ 1437  scp ./test.c ptshaba2@146.141.21.100:~/test/
+ 1438  mpicc scan_mpi.c -o scan_mpi
+ 1439  jupyter notebook
+ 1440  scp ./numpy.ipynb ptshaba2@146.141.21.100:~/ML/
+ 1441  scp ptshaba2@146.141.21.100:~/ML/ ./numpy.ipynb
+ 1442  scp ptshaba2@146.141.21.100:~/ML/numpy.ipynb
+ 1443  scp ptshaba2@146.141.21.100:~/ptshaba2/ML/numpy.ipynb
+ 1444  scp ptshaba2@146.141.21.100:~/ML/numpy.ipynb/
+ 1445  scp ptshaba2@146.141.21.100:~/ML/numpy.ipynb
+ 1446  scp ptshaba2@146.141.21.100:~\ML\numpy.ipynb
+ 1447  scp ptshaba2@146.141.21.100:~/ML/numpy.ipynb
+ 1448  hostname -I
+ 1449  scp ptshaba2@146.141.21.100:~/ML/numpy.ipynb ~/Desktop/NedbankLoan
+ 1450  scp ptshaba2@146.141.21.100:~/ML/numpy.ipynb ~/NedbankLoan
+ 1451  scp ptshaba2@146.141.21.100:~/ML/numpy.ipynb ~/Desktop
+ 1452  scp ptshaba2@146.141.21.100:~/ML/numpy.ipynb .
+ 1453  scp ptshaba2@146.141.21.100:~/ML/random.txt .
+ 1454  ssh ptshaba2@146.141.21.100
+ 1455  python3 lab3.py 
+ 1456  javac CsvReader.java 
+ 1457  javac project.java 
+ 1458  javac project
+ 1459  java project
+ 1460  javac project
+ 1461  javac project.java 
+ 1462  java project
+ 1463  javac project.java 
+ 1464  java project
+ 1465  javac project.java 
+ 1466  java project
+ 1467  javac project.java 
+ 1468  java project
+ 1469  javac project.java 
+ 1470  java project
+ 1471  javac project.java 
+ 1472  java project
+ 1473  javac project.java 
+ 1474  java project
+ 1475  javac project.java 
+ 1476  java project
+ 1477  javac project.java 
+ 1478  java project
+ 1479  javac project.java 
+ 1480  java project
+ 1481  javac project.java 
+ 1482  java project
+ 1483  javac project.java 
+ 1484  java project
+ 1485  javac project.java 
+ 1486  java project
+ 1487  javac project.java 
+ 1488  java project
+ 1489  javac project.java 
+ 1490  gcc witsshell.c -o witsshell
+ 1491  ./witsshell
+ 1492  javac ProblemALG005b.java
+ 1493  java ProblemALG005b.java
+ 1494  javac ProblemALG005b.java
+ 1495  java ProblemALG005b
+ 1496  javac ProblemALG005b.java
+ 1497  java ProblemALG005b
+ 1498  javac ProblemALG005b.java
+ 1499  java ProblemALG005b
+ 1500  javac ProblemALG005b.java
+ 1501  java ProblemALG005b
+ 1502  javac ProblemALG005b.java
+ 1503  java ProblemALG005b
+ 1504  javac ProblemALG005b.java
+ 1505  java ProblemALG005b
+ 1506  javac ProblemALG005b.java
+ 1507  java ProblemALG005b
+ 1508  javac ProblemALG005b.java
+ 1509  java ProblemALG005b
+ 1510  javac ProblemALG005b.java
+ 1511  java ProblemALG005b
+ 1512  javac ProblemALG005b.java
+ 1513  java ProblemALG005b
+ 1514  javac ProblemALG005b.java
+ 1515  java ProblemALG005b
+ 1516  javac ProblemALG005b.java
+ 1517  java ProblemALG005b
+ 1518  javac ProblemALG005b.java
+ 1519  java ProblemALG005b
+ 1520  javac ProblemALG005b.java
+ 1521  java ProblemALG005b
+ 1522  javac ProblemALG005b.java
+ 1523  java ProblemALG005b
+ 1524  javac ProblemALG005b.java
+ 1525  java ProblemALG005b
+ 1526  javac ProblemALG005b.java
+ 1527  java ProblemALG005b
+ 1528  javac ProblemALG005b.java
+ 1529  java ProblemALG005b
+ 1530  javac ProblemALG005b.java
+ 1531  java ProblemALG005b
+ 1532  javac ProblemALG005b.java
+ 1533  java ProblemALG005b
+ 1534  javac ProblemALG005b.java
+ 1535  java ProblemALG005b
+ 1536  javac ProblemALG005b.java
+ 1537  java ProblemALG005b
+ 1538  javac ProblemALG005b.java
+ 1539  java ProblemALG005b
+ 1540  javac ProblemALG005b.java
+ 1541  java ProblemALG005b
+ 1542  javac ProblemALG005b.java
+ 1543  java ProblemALG005b
+ 1544  javac ProblemALG005b.java
+ 1545  java ProblemALG005b
+ 1546  javac ProblemALG005b.java
+ 1547  java ProblemALG005b
+ 1548  javac ProblemALG005b.java
+ 1549  java ProblemALG005b
+ 1550  javac ProblemALG005b.java
+ 1551  java ProblemALG005b
+ 1552  javac ProblemALG005b.java
+ 1553  java ProblemALG005b
+ 1554  javac ProblemALG005b.java
+ 1555  java ProblemALG005b
+ 1556  javac ProblemALG005b.java
+ 1557  java ProblemALG005b
+ 1558  javac ProblemALG005b.java
+ 1559  java ProblemALG005b
+ 1560  javac ProblemALG005b.java
+ 1561  java ProblemALG005b
+ 1562  javac ProblemALG005b.java
+ 1563  java ProblemALG005b
+ 1564  javac ProblemALG005b.java
+ 1565  java ProblemALG005b
+ 1566  javac ProblemALG005b.java
+ 1567  java ProblemALG005b
+ 1568  javac ProblemALG005b.java
+ 1569  java ProblemALG005b
+ 1570  javac ProblemALG005b.java
+ 1571  java ProblemALG005b
+ 1572  javac ProblemALG005b.java
+ 1573  java ProblemALG005b
+ 1574  javac ProblemALG005b.java
+ 1575  java ProblemALG005b
+ 1576  javac ProblemALG005b.java
+ 1577  java ProblemALG005b
+ 1578  javac ProblemALG005b.java
+ 1579  java ProblemALG005b
+ 1580  javac ProblemALG005b.java
+ 1581  java ProblemALG005b
+ 1582  javac ProblemALG005b.java
+ 1583  java ProblemALG005b
+ 1584  javac ProblemALG005b.java
+ 1585  java ProblemALG005b
+ 1586  javac ProblemALG005b.java
+ 1587  java ProblemALG005b
+ 1588  javac ProblemALG005b.java
+ 1589  java ProblemALG005b
+ 1590  javac ProblemALG005b.java
+ 1591  java ProblemALG005b
+ 1592  javac ProblemALG005b.java
+ 1593  java ProblemALG005b
+ 1594  javac ProblemALG005b.java
+ 1595  java ProblemALG005b
+ 1596  javac ProblemALG005b.java
+ 1597  java ProblemALG005b
+ 1598  javac ProblemALG005b.java
+ 1599  java ProblemALG005b
+ 1600  javac ProblemALG005b.java
+ 1601  java ProblemALG005b
+ 1602  7
+ 1603  java ProblemALG005b
+ 1604  flutter doctor
+ 1605  java
+ 1606  jre
+ 1607  sudo apt install openjdk-19-jdk
+ 1608  java -version
+ 1609  sudo apt update
+ 1610  sudo apt install default-jre
+ 1611  java -version
+ 1612  sudo apt install default-jdk
+ 1613  javac -version
+ 1614  echo %JAVA_HOME%
+ 1615  sudo apt install openjdk-17-jdk
+ 1616  java -version
+ 1617  javac -version
+ 1618  sudo mkdir /wwwpu/lib/jvm
+ 1619  sudo mkdir /usr/lib/jvm
+ 1620  sudo mkdir /lib/jvm
+ 1621  gcc witsshell.c -o witsshell
+ 1622  ./
+ 1623  ./witsshell
+ 1624  ./test-witsshell.sh
+ 1625  ./test-witsshell.sh
+ 1626  gcc witsshell.c -o witsshell
+ 1627  ./test-witsshell.sh
+ 1628  ./witsshell
+ 1629  javac ProblemALG007A.java
+ 1630  java ProblemALG007A
+ 1631  javac ProblemALG007A.java
+ 1632  java ProblemALG007A
+ 1633  javac ProblemALG007A.java
+ 1634  java ProblemALG007A
+ 1635  javac ProblemALG007A.java
+ 1636  java ProblemALG007A
+ 1637  javac ProblemALG007A.java
+ 1638  java ProblemALG007A
+ 1639  javac ProblemALG007A.java
+ 1640  java ProblemALG007A
+ 1641  javac ProblemALG007A.java
+ 1642  java ProblemALG007A
+ 1643  javac ProblemALG007A.java
+ 1644  java ProblemALG007A
+ 1645  javac ProblemALG007A.java
+ 1646  java ProblemALG007A
+ 1647  javac ProblemALG007A.java
+ 1648  java ProblemALG007A
+ 1649  javac ProblemALG007A.java
+ 1650  java ProblemALG007A
+ 1651  javac ProblemALG007A.java
+ 1652  java ProblemALG007A
+ 1653  javac ProblemALG007A.java
+ 1654  java ProblemALG007A
+ 1655  javac ProblemALG007A.java
+ 1656  java ProblemALG007A
+ 1657  javac ProblemALG007A.java
+ 1658  java ProblemALG007A
+ 1659  javac ProblemALG007A.java
+ 1660  java ProblemALG007A
+ 1661  javac ProblemALG007A.java
+ 1662  java ProblemALG007A
+ 1663  javac ProblemALG007A.java
+ 1664  java ProblemALG007A
+ 1665  javac ProblemALG007A.java
+ 1666  java ProblemALG007A
+ 1667  javac ProblemALG007A.java
+ 1668  java ProblemALG007A
+ 1669  javac ProblemALG007A.java
+ 1670  java ProblemALG007A
+ 1671  javac ProblemALG007A.java
+ 1672  java ProblemALG007A
+ 1673  javac ProblemALG007A.java
+ 1674  java ProblemALG007A
+ 1675  javac ProblemALG007A.java
+ 1676  java ProblemALG007A
+ 1677  javac ProblemALG007A.java
+ 1678  java ProblemALG007A
+ 1679  javac ProblemALG007A.java
+ 1680  java ProblemALG007A
+ 1681  javac ProblemALG007A.java
+ 1682  java ProblemALG007A
+ 1683  javac ProblemALG007A.java
+ 1684  java ProblemALG007A
+ 1685  javac ProblemALG007A.java
+ 1686  java ProblemALG007A
+ 1687  javac ProblemALG007A.java
+ 1688  java ProblemALG007A
+ 1689  javac ProblemALG007A.java
+ 1690  java ProblemALG007A
+ 1691  javac ProblemALG007A.java
+ 1692  java ProblemALG007A
+ 1693  javac ProblemALG007A.java
+ 1694  java ProblemALG007A
+ 1695  javac ProblemALG007A.java
+ 1696  java ProblemALG007A
+ 1697  javac ProblemALG007A.java
+ 1698  java ProblemALG007A
+ 1699  javac ProblemALG007A.java
+ 1700  java ProblemALG007A
+ 1701  javac ProblemALG007A.java
+ 1702  java ProblemALG007A
+ 1703  javac ProblemALG007A.java
+ 1704  java ProblemALG007A
+ 1705  javac ProblemALG007A.java
+ 1706  java ProblemALG007A
+ 1707  javac ProblemALG007A.java
+ 1708  java ProblemALG007A
+ 1709  javac ProblemALG007A.java
+ 1710  java ProblemALG007A
+ 1711  javac ProblemALG007A.java
+ 1712  java ProblemALG007A
+ 1713  javac ProblemALG007A.java
+ 1714  java ProblemALG007A
+ 1715  javac ProblemALG007A.java
+ 1716  java ProblemALG007A
+ 1717  choco install dart-sdk
+ 1718  javac combo.java 
+ 1719  javac StringCombinations.java 
+ 1720  java StringCombinations
+ 1721  sudo opt-get update
+ 1722  sudo apt-get update
+ 1723  sudo apt-get install apt-transport-https
+ 1724  wget -qO- https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/dart.gpg
+ 1725  echo 'deb [signed-by=/usr/share/keyrings/dart.gpg arch=amd64] https://storage.googleapis.com/download.dartlang.org/linux/debian stable main' | sudo tee /etc/apt/sources.list.d/dart_stable.list
+ 1726  sudo apt-get update
+ 1727  mvn -version
+ 1728  sudo apt install maven
+ 1729  mvn -version
+ 1730  edit work.c 
+ 1731  notepad work.c 
+ 1732  Notepad work.c 
+ 1733  cd ~
+ 1734  cd /
+ 1735  cd ..
+ 1736  cg ~
+ 1737  cd ~
+ 1738  ls ../../
+ 1739  touch puleng.txt
+ 1740  rm puleng.txt 
+ 1741  rm puleng.txt
+ 1742  rmdir puleng.txt
+ 1743  touch pul.md
+ 1744  cd home
+ 1745  ls /
+ 1746  ls
+ 1747  cd ..
+ 1748  cd ...
+ 1749  cd ../..
+ 1750  npm i jest --save-dev
+ 1751  npm --version
+ 1752  npm init
+ 1753  npm i --save-dev @testing-library/jest-dom
+ 1754  npm fund
+ 1755  ls -a
+ 1756  ls
+ 1757  git init
+ 1758  ls -a
+ 1759  git status
+ 1760  touch README.md
+ 1761  git status
+ 1762  git log
+ 1763  git add .
+ 1764  git log
+ 1765  git status
+ 1766  git rm --cached README.md
+ 1767  git status
+ 1768  git add .
+ 1769  git commit "1st commit - readme file"
+ 1770  git commit -m "1st commit - readme file"
+ 1771  git log
+ 1772  nano README.md
+ 1773  git status
+ 1774  git commit -m "2nd commit - readme file"
+ 1775  git add .
+ 1776  git status
+ 1777  git log
+ 1778  git commit -m "2nd commit - readme file"
+ 1779  cat README.md
+ 1780  nano README.md
+ 1781  git add .
+ 1782  git commit -m "2nd commit - readme file"
+ 1783  cat README.md
+ 1784  nano README.md
+ 1785  cat README.md
+ 1786  git add .
+ 1787  git commit -m "3nd commit - readme file"
+ 1788  git log
+ 1789  git checkout f2a56274feddaf3d92733a2ad72bb5145da030e7
+ 1790  cat README.md
+ 1791  git log
+ 1792  git checkout main
+ 1793  git checkout master
+ 1794  git log
+ 1795  cat README.md
+ 1796  git branch milkshake-flavours
+ 1797  git branch -a
+ 1798  git branch -d
+ 1799  man git branch -d
+ 1800  git branch
+ 1801  git checkout milkshake-flavours
+ 1802  git branch
+ 1803  nano milkshake-flavours.md
+ 1804  git status
+ 1805  git add .
+ 1806  git status
+ 1807  git commit -m "added initial flavours"
+ 1808  git branch -a
+ 1809  git checkout master
+ 1810  git branch history
+ 1811  git branch
+ 1812  history > history.txt
+ 1813  git branch
+ 1814  git status
+ 1815  git add history.txt
+ 1816  git status
+ 1817  git commit -m "added history"
+ 1818  git log
+ 1819  git checkout history
+ 1820  cat history.txt
+ 1821  history > history.txt
+ 1822  git checkout master
+ 1823  git status
+ 1824  git add .
+ 1825  git commit -m "added history"
+ 1826  nano README.md
+ 1827  git branch
+ 1828  nano README.md
+ 1829  git commit -m "random readme changes"
+ 1830  git add .
+ 1831  git commit -m "random readme changes"
+ 1832  rm README.md
+ 1833  e
+ 1834  git add .
+ 1835  git commit -m "rewrote readme"
+ 1836  git checkout master
+ 1837  ls
+ 1838  rm history.txt
+ 1839  ls
+ 1840  git checkout milkshake-flavours
+ 1841  ls
+ 1842  git checkout history
+ 1843  ls
+ 1844  git checkout master
+ 1845  git merge milkshake-flavours
+ 1846  ls
+ 1847  git merge history
+ 1848  ls
+ 1849  git checkout history
+ 1850  ls
+ 1851  rm history.txt
+ 1852  git add .
+ 1853  git status
+ 1854  git commit -m "removed readme"
+ 1855  git checkout history
+ 1856  git merge master
+ 1857  git remote add origin https://github.com/PulengAlvi/git-basic-exercises.git
+ 1858  git branch -M main
+ 1859  git push -u origin main
+ 1860  git branch
+ 1861  cd ../
+ 1862  cd a-repo-to-clone
+ 1863  git branch
+ 1864  git branch -a
+ 1865  git checkout a-branch-with-a-few-commits
+ 1866  git branch -a
+ 1867  git branch
+ 1868  git remote -v
+ 1869  git log
+ 1870  touch ignore-me.db
+ 1871  nano .gitignore
+ 1872  git status
+ 1873  mkdir large-directory-that-should-be-local-only
+ 1874  cd large-directory-that-should-be-local-only/
+ 1875  nano readme.md
+ 1876  cd ../
+ 1877  git status
+ 1878  nano .gitignore
+ 1879  git status
+ 1880  git add .gitignore
+ 1881  git commit -m "added .gitignore"
+ 1882  git push
+ 1883  git status
+ 1884  cd ../
+ 1885  ls -a
+ 1886  cd unitTest/
+ 1887  nano unit.js
+ 1888  cat unit.js 
+ 1889  nano unit.js
+ 1890  cat unit.js 
+ 1891  nano tdd.md
+ 1892  cat tdd.md
+ 1893  nano task2_3.js
+ 1894  git status
+ 1895  git branch
+ 1896  git checkout main
+ 1897  mkdir git-basic-exercises
+ 1898  cd git-basic-exercises
+ 1899  git init
+ 1900  git status
+ 1901  touch README.md
+ 1902  git add README.md
+ 1903  git commit -m "initial commit"
+ 1904  git log
+ 1905  git branch -m main
+ 1906  git branch
+ 1907  git log
+ 1908  nano README.md
+ 1909  cat README.md 
+ 1910  git status
+ 1911  git add .
+ 1912  git status
+ 1913  git commit -m "second commit"
+ 1914  nano README.md 
+ 1915  cat README.md 
+ 1916  git add .
+ 1917  git status
+ 1918  git commit -m "third commit"
+ 1919  git status
+ 1920  git log
+ 1921  git checkout -b milkshake-flavours
+ 1922  git branch
+ 1923  nano milkshakes.md
+ 1924  git add .
+ 1925  git commit -m "added initial flavours"
+ 1926  git checkout main
+ 1927  ls -a
+ 1928  ls
+ 1929  git checkout milkshake-flavours
+ 1930  ls
+ 1931  git checkout main
+ 1932  git checkout -b history
+ 1933  git log
+ 1934  git branch
+ 1935  ls
+ 1936  ls -a
+ 1937  history > history.txt
